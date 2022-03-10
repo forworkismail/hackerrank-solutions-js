@@ -38,4 +38,4 @@ const getGCD = (num1, num2) => {
 const array1 = [2, 4];
 const array2 = [16, 32, 96];
 
-console.log(getTotalX(array1, array2));
+getTotalX(array1, array2);
